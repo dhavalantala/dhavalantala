@@ -1,4 +1,4 @@
-[![MasterHead](https://images.squarespace-cdn.com/content/v1/5feb53185d3dab691b47361b/1609930650139-9NRI63XUJ29Y7E9LEA9G/12eca-machine-learning.gif)]
+![MasterHead](https://images.squarespace-cdn.com/content/v1/5feb53185d3dab691b47361b/1609930650139-9NRI63XUJ29Y7E9LEA9G/12eca-machine-learning.gif)
 <h1 align="center">Hi 👋, I'm Dhaval Antala</h1>
 <h3 align="center">Goal-driven machine learning engineer with 1+ years of experience producing machine learning solutions based on predictive modeling. Proficient with machine learning technologies, such as TensorFlow, Scikit-learn, etc.</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
