@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Dhaval Antala</h1>
-<h3 align="center">Goal-driven machine learning engineer with 4+ years of experience producing machine learning solutions based on predictive modeling. Proficient with machine learning technologies, such as TensorFlow, Scikit-learn, etc.</h3>
+<h3 align="center">Goal-driven machine learning engineer with 4+ years of experience producing machine learning solutions based on predictive modeling. Proficient with machine learning technologies, such as TensorFlow, PyTorch, Scikit-learn, etc.</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 - 🔭 I’m currently working on **Document Classification**
 
-- 🌱 I’m currently learning **FastAPI**, 
+- 🌱 I’m currently learning **FastAPI**, **Tableau**
 
 - 📫 How to reach me **dhavaljantala@gmail.com**
 
