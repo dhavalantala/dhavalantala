@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on **Document Classification**
 
-- 🌱 I’m currently learning **django**
+- 🌱 I’m currently learning **FastAPI**, 
 
 - 📫 How to reach me **dhavaljantala@gmail.com**
 
