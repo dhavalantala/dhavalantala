@@ -2,9 +2,9 @@
 <h3 align="center">Goal-driven machine learning engineer with 4+ years of experience producing machine learning solutions based on predictive modeling. Proficient with machine learning technologies, such as TensorFlow, PyTorch, Scikit-learn, etc.</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-- 🔭 I’m currently working on **Document Classification**
+- 🔭 I’m currently working on **AI Agent**
 
-- 🌱 I’m currently learning **FastAPI**, **Tableau**
+- 🌱 I’m currently learning **JavaScript**.....
 
 - 📫 How to reach me **dhavaljantala@gmail.com**
 
